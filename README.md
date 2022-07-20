@@ -1,1 +1,1 @@
-# consumindo_apiclima_visualfoxpro
+Teste de consumo de API no Visual Fox Pro 9.
